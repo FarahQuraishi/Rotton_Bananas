@@ -1,0 +1,33 @@
+.input-group {
+margin-bottom: 5px;
+}
+
+#login-form {
+  width: 49%;
+  float: left;
+}
+
+#signup-form {
+  width: 49%;
+  float: right;
+}
+
+#login-form > h3 {
+  font-family: "times" "new roman";
+  color: darkblue; 
+}
+
+#signup-form > h3 {
+  font-style: italic;
+  color: darkred;
+}
+
+h1 {
+  color: rgb(56, 130, 51); 
+  font-family: arial;
+  font-size: 3em; 
+}
+
+h1.center {
+  text-align: center;
+}
